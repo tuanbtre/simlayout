@@ -1,0 +1,170 @@
+.slider-range{margin-bottom:25px}.slider-range .ui-slider{margin-bottom:10px}.ui-slider-horizontal{position:relative;height:3px;text-align:left}.ui-slider .ui-slider-range{position:absolute;top:0;height:100%;display:block;border:0;background-position:0 0;z-index:1}.ui-slider .ui-slider-handle{position:absolute;top:-5px;cursor:default;-ms-touch-action:none;width:8px;height:12px;margin-left:0px;-moz-border-radius:6px;border-radius:6px;z-index:2}.ui-slider .ui-slider-handle:focus{outline:none}.amount-start,.amount-end{font-size:11px;width:50%;font-weight:bold;background:transparent;border:none}.amount-start{float:left;text-align:left}.amount-end{float:right;text-align:right}.slider-range.color-1 .ui-slider-horizontal{background:#efefef}.slider-range.color-1 .ui-slider .ui-slider-range{background:#1593d0}.slider-range.color-1 .ui-slider .ui-slider-handle{background:#1593d0}.slider-range.color-1 .amount-start, .slider-range.color-1 .amount-end{color:#bebebe}.slider-range.color-2 .ui-slider-horizontal{background:#eee}.slider-range.color-2 .ui-slider .ui-slider-range{background:#2d3e50}.slider-range.color-2 .ui-slider .ui-slider-handle{background:#2d3e50}.slider-range.color-2 .amount-start, .slider-range.color-2 .amount-end{color:#bebebe}.slider-range.color-3 .ui-slider-horizontal{background:#efefef}.slider-range.color-3 .ui-slider .ui-slider-range{background:#022c54}.slider-range.color-3 .ui-slider .ui-slider-handle{background:#022c54}.slider-range.color-3 .amount-start, .slider-range.color-3 .amount-end{color:#bebebe}.slider-range.color-4 .ui-slider-horizontal{background:#ededed}.slider-range.color-4 .ui-slider .ui-slider-range{background:#d73240}.slider-range.color-4 .ui-slider .ui-slider-handle{background:#d73240}.slider-range.color-4 .amount-start, .slider-range.color-4 .amount-end{color:#bebebe}.input-entry .checkbox-form{display:none}.input-entry .checkbox-form+label{display:block;font-size:11px;margin-bottom:6px;line-height:18px}.input-entry .checkbox-form + label span.sp-check{position:relative;display:inline-block;float:left;width:19px;height:19px;top:0px;margin:0px
+14px 0 0;-moz-border-radius:5px;border-radius:5px;cursor:pointer}.input-entry .checkbox-form + label span.sp-check
+i{display:none;position:absolute;top:50%;left:50%;margin-top:-5px;margin-left:-5px}.input-entry .checkbox-form:checked + label span.sp-check
+i{display:block}.input-entry
+.rate{display:block;padding-top:2px}.input-entry .rate
+.fa{margin-right:7px;cursor:pointer;font-size:11px;padding:0px}.input-entry .rate .fa:last-child{margin-right:0px}.input-entry .checkbox-text{font-family:'Open Sans',sans-serif;font-size:14px;font-weight:400;padding-top:2px}.input-entry.color-1 .checkbox-form + label span.sp-check{background:#f8f8f8;border:1px
+solid #eaeaea}.input-entry.color-1 .checkbox-form:checked + label span.sp-check
+i{color:#1593d0}.input-entry.color-1 .checkbox-text{color:#bebebe;cursor:pointer}.input-entry.color-2 .checkbox-form + label span.sp-check{background:#f8f8f8;border:1px
+solid #eaeaea}.input-entry.color-2 .checkbox-form:checked + label span.sp-check
+i{color:#1593d0}.input-entry.color-2 .checkbox-text{color:#222;cursor:pointer}.input-entry.color-3 .checkbox-form + label span.sp-check{background:#fff;border:1px
+solid #f1f1f1}.input-entry.color-3 .checkbox-form:checked + label span.sp-check
+i{color:#2D3E50}.input-entry.color-3 .checkbox-text{color:#bebebe;cursor:pointer}.input-entry.color-4 .checkbox-form + label span.sp-check{background:#fff;border:1px
+solid #f1f1f1}.input-entry.color-4 .checkbox-form:checked + label span.sp-check
+i{color:#2D3E50}.input-entry.color-4 .checkbox-text{color:#222;cursor:pointer}.input-entry.color-5 .checkbox-form + label span.sp-check{background:#f8f8f8;border:1px
+solid #ebebeb}.input-entry.color-5 .checkbox-form:checked + label span.sp-check
+i{color:#022c54}.input-entry.color-5 .checkbox-text{color:#bebebe;cursor:pointer}.input-entry.color-6 .checkbox-form + label span.sp-check{background:#f8f8f8;border:1px
+solid #ebebeb}.input-entry.color-6 .checkbox-form:checked + label span.sp-check
+i{color:#022c54}.input-entry.color-6 .checkbox-text{color:#222;cursor:pointer}.input-entry.color-7 .checkbox-form + label span.sp-check{background:#f8f8f8;border:1px
+solid #ebebeb}.input-entry.color-7 .checkbox-form:checked + label span.sp-check
+i{color:#d73240}.input-entry.color-7 .checkbox-text{color:#bebebe;cursor:pointer}.input-entry.color-8 .checkbox-form + label span.sp-check{background:#f8f8f8;border:1px
+solid #ebebeb}.input-entry.color-8 .checkbox-form:checked + label span.sp-check
+i{color:#d73240}.input-entry.color-8 .checkbox-text{color:#222;cursor:pointer}.input-entry.type-2{display:inline-block}.input-entry.type-2
+.rate{display:inline-block}.input-entry.type-2 .checkbox-text{display:block;margin-bottom:4px}
+.sidebar-rating .input-entry{margin-bottom:9px}
+.row-view{display:table-row}
+.cell-view{display:table-cell;vertical-align:middle}
+.hotel-item.style-2 .price{font-size:12px;line-height:39px;font-weight:700;color:#fff;text-transform:uppercase;background:rgba(229, 74, 74, 0.8);padding:0px 19px}
+.hotel-item.style-2 .title h4{letter-spacing:1.5px;margin-bottom:0px;margin-bottom:9px}
+.hotel-item.style-2 .rate-wrap{padding:0px 0px 3px}
+.hotel-item.style-3 .price-s-1{top:30px;left:24px}
+.hotel-item.style-3 .title{background:#fff;padding:10px}
+.hotel-item.style-3 .title h4 a{font-family:"UTMHelvetIns" !important; color:#000;}
+.hotel-item.style-3 .title p{padding:8px 0px 11px}
+.hotel-item.style-3 .date{font-family:'Open Sans',sans-serif;font-size:12px;line-height:16px;font-weight:400;color:#bebebe;text-transform:uppercase;margin-bottom:9px}
+.hotel-item.style-3 .date strong{font-weight:700}
+.hotel-item.style-3 .people{font-family:'Open Sans',sans-serif;line-height:16px;font-weight:400;color:#bebebe;text-transform:uppercase}
+.hotel-item.style-3 .people strong{font-weight:800}
+.hotel-item.style-3 .tour-weather{top:29.5px;left:auto;right:13px}
+.hotel-item.style-3 .c-button{padding:0 14px}
+.hotel-item.style-4 .radius-top{-moz-border-radius-topleft:0;border-top-left-radius:0;-moz-border-radius-topright:0;border-top-right-radius:0}
+.hotel-item.style-4 .hotel-place{font-size:12px;line-height:16px;font-weight:400;text-transform:uppercase;letter-spacing:1px;margin-bottom:10px}
+.hotel-item.style-4 .hotel-hot{font-weight:300}
+.hotel-item.style-5 .price-s-1{top:30px;left:24px}
+.hotel-item.style-5 .title{background:#fff;padding:27px 20px;-moz-box-shadow:none;box-shadow:none;border:none}
+.hotel-item.style-5 .title h4{letter-spacing:2.7px}
+.hotel-item.style-5 .title p{padding:8px 0px 11px}
+.hotel-item.style-5 .date{font-family:'Open Sans',sans-serif;font-size:12px;line-height:16px;font-weight:400;color:#bebebe;text-transform:uppercase;margin-bottom:9px}
+.hotel-item.style-5 .date strong{font-weight:700}
+.hotel-item.style-5 .people{font-family:'Open Sans',sans-serif;line-height:16px;font-weight:400;color:#bebebe;text-transform:uppercase}
+.hotel-item.style-5 .people strong{font-weight:800}
+.hotel-item.style-6 .title{border:1px solid #efefef;-moz-border-radius-bottomleft:0px;border-bottom-left-radius:0px;-moz-border-radius-bottomright:0px;border-bottom-right-radius:0px;-moz-box-shadow:none;box-shadow:none}
+.hotel-item.style-6 .radius-top{-moz-border-radius-topleft:0px;border-top-left-radius:0px;-moz-border-radius-topright:0px;border-top-right-radius:0px}
+.hotel-item.style-6 .tour-info{margin-right:15px}
+.hotel-item.style-6 .rate-wrap{margin-bottom:6px}
+.hotel-item.style-6 h5{font-size:14px;line-height:18px;font-weight:400;text-transform:uppercase}
+.hotel-item.style-6 h5 strong{font-size:16px}
+.hotel-item.style-7 .title{border:1px solid #efefef;-moz-border-radius-bottomleft:0px;border-bottom-left-radius:0px;-moz-border-radius-bottomright:0px;border-bottom-right-radius:0px;-moz-box-shadow:none;box-shadow:none}
+.hotel-item.style-7 h4{letter-spacing:0px;margin-bottom:3px}
+.hotel-item.style-7 h5{font-size:12px;line-height:18px;font-weight:400;text-transform:uppercase;letter-spacing:1.7px;margin-bottom:12px}
+.hotel-item.style-7 h5 strong{font-size:16px;font-weight:700}
+.hotel-item.style-7 h6{font-family:'Open Sans',sans-serif;font-size:12px;line-height:15px;font-weight:400;text-transform:uppercase;letter-spacing:0px;margin-bottom:12px}
+.hotel-item.style-7 p{font-family:'Open Sans',sans-serif;font-size:12px;line-height:15px;font-weight:400;text-transform:uppercase;letter-spacing:0px}
+.hotel-item.style-8 .hotel-person{font-size:16px;line-height:22px}
+.hotel-item.style-8 .price-s-2{left:0px;top:0px}
+.hotel-item.style-9 .title{-moz-border-radius-bottomleft:0px;border-bottom-left-radius:0px;-moz-border-radius-bottomright:0px;border-bottom-right-radius:0px;-moz-box-shadow:none;box-shadow:none}
+.hotel-item.style-9 .tour-info{margin-right:15px}
+.hotel-item.style-9 h5{font-size:14px;line-height:18px;font-weight:400;text-transform:uppercase}
+.hotel-item.style-9 h5 strong{font-size:16px}
+.hotel-item.style-9 .buttons-block{padding:30px 20px;margin:0px -20px 0px -20px}
+.hotel-item.style-10 .radius-top{border-bottom:1px solid #ededed}
+.hotel-item.style-10 .title{-moz-border-radius-bottomleft:0px;border-bottom-left-radius:0px;-moz-border-radius-bottomright:0px;border-bottom-right-radius:0px;-moz-box-shadow:none;box-shadow:none}
+.hotel-item.style-10 .fi_block{margin-bottom:10px}
+.hotel-item.style-10 h4{letter-spacing:0px;margin-bottom:3px}
+.hotel-item.style-10 h5{font-size:14px;line-height:18px;font-weight:400;text-transform:uppercase;letter-spacing:1.7px;margin-bottom:12px}
+.hotel-item.style-10 h5 strong{font-size:16px;font-weight:700}
+.hotel-item.style-10 h6{font-family:'Open Sans',sans-serif;font-size:12px;line-height:15px;font-weight:400;text-transform:uppercase;letter-spacing:0px;margin-bottom:12px}
+.hotel-item.style-10 p{font-family:'Open Sans',sans-serif;font-size:12px;line-height:15px;font-weight:400;text-transform:uppercase;letter-spacing:0px}
+.hotel-item.style-10 .hotel-right-text{font-family:'Open Sans',sans-serif;font-size:12px;line-height:18px;font-weight:400;text-transform:uppercase}
+.hotel-item.style-11 .price-s-1{top:30px;left:24px}
+.hotel-item.style-11 .title{padding:27px 20px;-moz-box-shadow:none;box-shadow:none;border:none}
+.hotel-item.style-11 .title h4{letter-spacing:2.7px}
+.hotel-item.style-11 .title p{padding:8px 0px 11px}
+.hotel-item.style-11 .date{font-family:'Open Sans',sans-serif;font-size:12px;line-height:16px;font-weight:400;color:#bebebe;text-transform:uppercase;margin-bottom:9px}
+.hotel-item.style-11 .date strong{font-weight:700}
+.hotel-item.style-11 .people{font-family:'Open Sans',sans-serif;line-height:16px;font-weight:400;color:#bebebe;text-transform:uppercase}
+.hotel-item.style-11 .people strong{font-weight:800}
+.hotel-item.style-11 .tour-weather{top:29.5px;left:auto;right:13px}
+.hotel-item.style-11 .c-button{padding:0 14px}
+.hotel-item.style-12 .title{-moz-border-radius-bottomleft:0px;border-bottom-left-radius:0px;-moz-border-radius-bottomright:0px;border-bottom-right-radius:0px;-moz-box-shadow:none;box-shadow:none}.hotel-item.style-12
+.fi_block{margin-bottom:10px}
+.hotel-item.style-12 h4{letter-spacing:1.3px;margin-bottom:3px}
+.hotel-item.style-12 h5{font-size:14px;line-height:18px;font-weight:400;text-transform:uppercase;letter-spacing:1.7px;margin-bottom:12px}
+.hotel-item.style-12 h5 strong{font-size:16px;font-weight:700}
+.hotel-item.style-12 h6{font-family:'Open Sans',sans-serif;font-size:12px;line-height:15px;font-weight:400;text-transform:uppercase;letter-spacing:0px;margin-bottom:12px}
+.hotel-item.style-12 p{font-family:'Open Sans',sans-serif;font-size:12px;line-height:15px;font-weight:400;text-transform:uppercase;letter-spacing:0px}
+.hotel-item.style-12 .hotel-right-text{font-family:'Open Sans',sans-serif;font-size:12px;line-height:18px;font-weight:400;text-transform:uppercase}
+.hotel-item.style-12 .hotel-middle:before{content:'';position:absolute;top:28px;left:0px;bottom:28px;display:block;width:1px;background:#ececec}
+.list-content .hotel-item.style-12 .hotel-middle{width:66.66666667%}
+.list-header{margin-bottom:5px}
+.list-header .list-sort{display:inline-block;width:auto;min-width:170px;margin-right:30px}
+.list-header .list-view-change{float:right;margin-top:8px}
+.list-header .change-grid, .list-header .change-list{width:35px;height:35px;line-height:35px;text-align:center;margin-left:20px;border-radius:5px}
+.list-header .change-to-label{font-family:'Open Sans',sans-serif;font-size:14px;line-height:35px;font-weight:400}
+.change-grid.color-1,.change-list.color-1{background:#fff;color:#23b0e8;cursor:pointer}
+.change-grid.color-1.active,.change-list.color-1.active,.change-grid.color-1:hover,.change-list.color-1:hover{background:#23b0e8;color:#fff;cursor:pointer}
+.change-grid.color-2,.change-list.color-2{background:#fff;color:#2d3e50;cursor:pointer}
+.change-grid.color-2.active,.change-list.color-2.active,.change-grid.color-2:hover,.change-list.color-2:hover{background:#f60;color:#fff;cursor:pointer}
+.change-grid.color-3,.change-list.color-3{background:#fff;color:#022c54;cursor:pointer}
+.change-grid.color-3.active,.change-list.color-3.active,.change-grid.color-3:hover,.change-list.color-3:hover{background:#022c54;color:#fff;cursor:pointer}
+.change-grid.color-4,.change-list.color-4{background:#fff;color:#d73240;cursor:pointer}
+.change-grid.color-4.active,.change-list.color-4.active,.change-grid.color-4:hover,.change-list.color-4:hover{background:#d73240;color:#fff;cursor:pointer}
+.grid-content{margin-right:-15px;margin-left:-15px;margin-bottom:42px}
+.grid-content .list-item-entry:nth-child(3n+1){clear:both}
+.grid-content .hotel-item{margin-bottom:30px}
+.grid-content .list-item-entry{float:left;width:33.33333333%;padding-right:15px;padding-left:15px}
+.grid-content .cell-view{display:block;width:100%}
+.grid-content .hotel-item .grid-hidden{display:none}
+.grid-content .title{-moz-box-shadow:none;box-shadow:none;border:none}
+.grid-content .hotel-item.style-3 .hotel-middle{padding:27px 20px 0px 20px}
+.grid-content .title.hotel-right{padding:0px 20px 27px 20px}
+.grid-content .hotel-item.style-8{-moz-border-radius:5px;border-radius:5px}
+.grid-content .hotel-item.style-8 .hotel-right{display:none}
+.grid-content .hotel-item.style-8 .hotel-middle{padding:27px 20px 25px 20px}
+.list-content{margin-bottom:42px}
+.list-content .hotel-item{margin-bottom:30px;border:1px solid #efefef;border-radius:5px; padding:15px 0}
+.list-content .list-item-entry:last-child .hotel-item{margin-bottom:0px}
+.list-content .table-view{float:none;display:table;width:auto}
+.list-content .radius-top{width:33.33333333%;padding-right:15px;padding-left:15px}
+.list-content .hotel-item.style-3 .radius-top{padding-left:0}
+.list-content .hotel-middle{width:44.44444444%;padding-right:15px;padding-left:15px}
+.list-content .title{-moz-box-shadow:none;box-shadow:none;border:none}
+.list-content .hotel-right{width:22.22222223%;padding-right:15px;padding-left:15px;text-align:center}
+.list-content .hotel-right .hotel-person{margin-bottom:27px}
+.list-content .hotel-right .hotel-person span{display:block;font-size:16px;font-weight:700;margin:16px 0px 3px 0px}
+.list-content .hotel-item .list-hidden{display:none}
+.c_pagination{position:relative; float:left;}.c_pagination ul{width:100%;text-align:center;list-style:none}
+.c_pagination ul a, .c_pagination ul>li>span{display:inline-block;height:30px;-moz-border-radius:4px;border-radius:4px;font-size:12px;line-height:30px;text-align:center}
+.c_pagination ul a:not(.prev):not(.next),.c_pagination ul>li>span{width:30px}
+.c_pagination ul li{display:inline-block;padding:0}
+.c_pagination ul li+li{padding-left:3px}
+.c_pagination ul.color-1 a{color:#bebebe}
+.c_pagination ul.color-1 .active a, .c_pagination ul.color-1 a:hover{background:#1593d0;color:#fff}
+.c_pagination ul.color-2 a{color:#bebebe}
+.c_pagination ul.color-2 .active a, .c_pagination ul.color-2 a:hover{background:#2d3e50;color:#fff}
+.c_pagination ul.color-3 a{color:#bebebe}.c_pagination ul.color-3 .active a, .c_pagination ul.color-3 a:hover{background:#022c54;color:#fff}
+.c_pagination ul.color-4 a{color:#bebebe}.c_pagination ul.color-4 .active a, .c_pagination ul.color-4 a:hover{background:#d73240;color:#fff}
+.circliful{position:relative;margin:0 auto}
+.circle-text{color:#fff}
+.circle-info-half{font-family:'Open Sans',sans-serif;font-size:14px;color:rgba(255,255,255,0.6);text-transform:uppercase}
+.circle-text,.circle-info,.circle-text-half,.circle-info-half{width:100%;position:absolute;text-align:center;display:inline-block}
+.circle-info{color:#fff}
+.circliful .fa{margin:-10px 3px 0 3px;position:relative;bottom:4px}
+.circle.color-dark-2 .circle-text{color:#222}
+.c-button.b-40{height:40px;font-size:10px;line-height:36px;padding:0 18px}
+.c-button.bg-blue{color:#fff;border:2px solid #23b0e8}
+.c-button.text-center{display:block}
+.c-button{position:relative;display:inline-block;-moz-border-radius:25px;border-radius:25px;text-align:center;padding:16px 20px;font-size:12px;text-transform:uppercase;line-height:14px;font-weight:700;color:#fff;margin-bottom:15px}
+.c-button img,.c-button i{margin-right:5px}
+.c-button img{vertical-align:middle}
+.c-button.bg-grey:hover{background:none;color:#fff}
+.c-button.bg-white:hover{background:none;color:#fff}
+.c-button:hover .img-hov{opacity:1}
+.c-button.hv-blue-o:hover{border-color:#f60}body[data-color="theme-1"]
+.bg-blue{background:#f60}body[data-color="theme-1"]
+.c-button.hv-blue-o:hover{background:transparent;color:#23b0e8;border-color:#23b0e8}body[data-color="theme-1"]
+.c-button.bg-blue{border:2px solid #f60}body[data-color="theme-1"]
+.link-blue:hover{color:#f60}body[data-color="theme-1"] 
+.c-button.hv-blue:hover{border:1px solid #f60;background:#f60;color:#fff}body[data-color="theme-1"] 
+.c-button.hv-blue{border:1px solid #f60;color:#f60}body[data-color="theme-1"] 
+.c-button.bg-blue:hover{color:#f60}body[data-color="theme-1"]

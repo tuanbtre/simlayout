@@ -1,0 +1,292 @@
+.rate-wrap i{position:relative;float:left;color:#bebebe;font-size:12px;line-height:21px;width:auto;font-style:normal;font-weight:400}
+.hotel-item.style-8 .rate-wrap{padding:10px 0px 3px}
+.list-content .hotel-item.style-8 .rate-wrap{-webkit-transform:translateY(100%);-moz-transform:translateY(100%);-ms-transform:translateY(100%);-o-transform:translateY(100%);transform:translateY(100%)}
+.hotel-item.style-8 .title h4{margin-bottom:0px; line-height:22px;}
+.list-content .hotel-item{border:1px solid #efefef;border-radius:5px}
+.search_form {overflow: hidden; position: relative;}
+.widget-submit{position:absolute;top:50%;right:19px;width:16px;height:16px;margin-top:-8px;background:url(../img/search_icon_small_grey.png) no-repeat}
+.c_pagination ul > li > span.current {background: #f60 none repeat scroll 0 0; color: #fff;}
+.c_pagination ul > li > .page-numbers {float: left; background: #555 none repeat scroll 0 0; color: #fff;}
+.c_pagination ul a, .c_pagination ul > li > span {border-radius: 4px; display: inline-block; font-size: 12px; height: 30px; line-height: 30px; text-align: center;}
+.c-button.b-40 {font-size: 10px; height: 40px; line-height: 36px;  padding: 0 18px;}
+.c-button{border-radius:4px}
+ul.vc_tta-tabs-list {box-sizing: border-box; display: block; list-style-type: none; margin: 0; padding: 0;}
+.vc_tta-tabs-list li.vc_tta-tab.vc_active a {background: #f60 none repeat scroll 0 0; color: #fff;}
+.vc_tta-tabs-list .vc_tta-tab {display: block; margin: 1px 0 0 1px;}
+.vc_tta-tabs-list li.vc_tta-tab:first-child a {border-top-left-radius: 5px; border-top-right-radius: 5px; overflow: hidden;}
+.vc_tta-tabs-list li.vc_tta-tab a {background: #f8f8f8 none repeat scroll 0 0; border: 0 none; border-radius: 0; color: #b9b9b9; display: block; font-size: 13px; font-weight: 400; letter-spacing: 1px; line-height: 16px; margin-bottom: 1px; padding: 14.5px 25px; text-transform: uppercase;}
+.detail-content img {
+    border-radius: 5px;
+    max-width: 100%;
+	cursor:pointer;
+}
+.blog-list .tour-info {
+    margin-right: 34px;
+}
+.tour-info {
+    display: block;
+    font-size: 12px;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+}
+.fl {
+    float: left;
+}
+.input-style-1.brd-0 input {
+    border: medium none;
+}
+.input-style-1.type-2 input {
+    padding: 0 20px 0 21px;
+}
+.input-style-1.b-50 input {
+    font-size: 14px;
+    height: 50px;
+    padding: 0 20px 0 44px;
+}
+.input-style-1.color-3 input {
+    background: #f8f8f8 none repeat scroll 0 0;
+    border-color: #f8f8f8;
+    color: #b9b9b9;
+    opacity: 1;
+}
+.input-style-1 input {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    color: #fff;
+    height: 60px;
+    padding: 0 20px 0 50px;
+    width: 100%;
+}
+button, input, select, textarea {
+    color: #3b3b3b;
+    max-width: 100%;
+    padding: 10px;
+    vertical-align: baseline;
+}
+input, textarea {
+    border: 0 none;
+    border-radius: 0;
+    outline: medium none;
+    transition: all 0.3s ease-in 0s;
+}
+.wrapper-rightbot {
+  position: fixed;
+  z-index: 8;
+  bottom: 13%;
+  right: 0%;
+}
+.wrapper-rightbot ul {
+  list-style: none;
+}
+
+.wrapper-rightbot ul li {
+    width: 37px;
+    height: 37px;
+    position: relative;
+    background: #820e14;
+    margin: 0px 0;
+    cursor: pointer;
+    border-radius: 0;
+    border-bottom: 1px solid #fff;
+    
+}
+
+.wrapper-rightbot ul li i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+  color: #fff;
+}
+
+.slider {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 37px;
+  width: 0px;
+  height: 36px;
+  background: #f5f5f5;
+  border-radius: 0px;
+  transition: all 0.5s 0.3s ease;
+  display: flex;
+    align-items: center;
+    justify-content: right;
+}
+
+.slider p {
+  text-transform: uppercase;
+  font-weight: 900;
+  color: #ffd03f;
+  text-align: right;
+  line-height: normal;
+  margin-right: 10px;
+  margin-bottom:0;
+  opacity: 0;
+  transition: all 0.6s ease;
+}
+.wrapper-rightbot ul li:hover i{color: #ffd03f;}
+.wrapper-rightbot ul li:hover .slider {
+  width: 130px;
+  transition: all 0.5s ease;
+}
+
+.wrapper-rightbot ul li:hover .slider p {
+  opacity: 1;
+  transition: all 1s 0.2s ease;
+}
+.fa-chevron-up::before {
+  content: "\f077";
+}
+.fa-zalo {
+	width:30px;
+	height:30px;
+    background: url(../images/icon-zalo.png) center center no-repeat;
+}
+.phone-mobile {display: none;}
+.add-on {
+    position: fixed;
+    left: 13px;
+    background: #fff;
+    border-radius: 5px;
+    z-index: 150;
+    bottom: 10px;
+    padding: 10px 0;
+    border: 1px solid #f2f2f2;
+}
+.add-on ul {list-style: none;padding: 0;margin: 0;}
+.add-on ul li {list-style: none!important; margin-bottom: .6em;}
+.add-on ul>li a {
+    border:none;
+    padding: 3px;
+    display: block;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 10px;
+    line-height: 15px;
+    color: #515151;
+    font-weight: 700;
+    max-width: 72.19px;
+    max-height: 54px;
+    text-decoration: none;
+}
+.add-on ul>li .chat_animation{display:none}
+.add-on ul>li a i.icon-map {
+    background: url("../images/icon-map.png") no-repeat;
+    background-size: contain;
+    width: 36px;
+    height: 36px;
+    display: block;
+}
+.add-on ul>li a i.icon-zalo {
+    background: url("../images/icon-zalo.png") no-repeat;
+    background-size: contain;
+    width: 36px;
+    height: 36px;
+    display: block;
+}
+.add-on li .button { background: transparent;}
+.add-on ul>li a i.ticon-angle-up {
+    background: url("../images/item-top.png") no-repeat;
+    background-size: contain;
+    width: 36px;
+    height: 36px;
+    display: block;
+}
+.add-on ul>li a i {
+    width: 33px;
+    height: 33px;
+    display: block;
+    margin: auto;
+}.add-on ul li .button .btn_phone_txt {
+    position: relative; top:35px;
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: none;
+}
+.add-on ul li .button .phone_animation i {
+    display: inline-block;
+    width: 27px;
+    font-size: 26px;
+    margin-top: 12px;
+}.add-on ul>li a.chat_animation svg {
+    margin: -13px 0 -20px;
+}
+.add-on ul>li a i.icon-messenger {
+    background: url("../images/icon-messenger.png") no-repeat;
+    background-size: contain;
+    width: 36px;
+    height: 36px;
+    display: block;
+}.add-on ul li .button .phone_animation i {
+    display: inline-block;
+    width: 27px;
+    font-size: 26px;
+    margin-top: 12px;
+}
+.add-on ul>li a i.icon-sms {
+    background: url("../images/icon-sms.jpg") no-repeat;
+    background-size: contain;
+    width: 38px;
+    height: 36px;
+    display: block;
+}
+.add-on ul>li a i.icon-phone-w {
+    background: url("../images/icon-phone-w.png") no-repeat;
+    background-size: contain;}
+.add-on ul li .button .btn_phone_txt {
+    position: relative;
+}
+.dropbtn {
+  height: 32px;
+  width: 32px;
+  border:none;
+  background: url("../images/mobile-cart.svg") no-repeat center center;
+  position: absolute;
+  right:0;
+  top:-32px;
+  padding:15px;
+}
+.cartdropdown {
+  position: relative;
+}
+.cartdropdown .number-cart{
+	position: absolute;
+	top: -40px;
+	right: -5px;
+	height: 18px;
+	width: 18px;
+	line-height: 18px;
+	background-color: #fff;
+	color: #820e14;
+	font-size: 0.8rem;
+	font-weight: bold;
+	text-align: center;
+	border-radius: 50%;
+}
+.cart-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 260px;
+  right:0;
+  top:10px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.cart-content h5 a{color:#820e14}
+.cart-content .list-group-item{padding:5px 8px; text-align:left;}
+.cart-content a {
+  color: black;
+  text-decoration: none;
+  display: block;
+}
+
+.cartdropdown:hover .cart-content {display: block;}
+/*----------- End Cart --------------*/
+.group_qty{border: 1px solid #f1f1f1}
+.group_qty .btn-default {border:none;background:none;padding:2px 10px}
+.group_qty .number{width:50px;text-align:center;padding:2px 10px}
+.updown .addcart{padding:2px 10px;border:1px solid #0d6efd;color:#0d6efd}
+.updown .addcart.active, .updown .addcart:hover{background:#0d6efd;border:1px solid #0d6efd;color:#fff}

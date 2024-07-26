@@ -1,0 +1,84 @@
+table.response { 
+		width: 100%; 
+		border-collapse: collapse; 
+	}
+table.response thead tr {
+		background: none !important;
+	}
+	/* Zebra striping */
+table.response tr:nth-child(odd) { 
+		background: #cbfbff; 
+	}
+table.response tr:nth-child(even) { 
+		background: #fff; 
+	}
+table.response thead tr {
+	background: #f60 !important;
+	color:#fff;
+	text-align:center !important;
+} 
+table.datarespon1 thead tr th {
+	padding: 8px;
+}
+table.datarespon thead tr th:last-child{
+	background: #aadbdf;
+}
+	
+table.response th { 
+	font-weight: bold;
+	text-align: center;
+	white-space: nowrap;
+	padding: 10px 0;	
+}
+/*table.response tr th:first-child{
+		text-align:left;
+	}
+table.response tr td:first-child{
+		text-align:left;
+	}*/
+table.response td, .service_cont th { 
+	padding: 6px; 
+	border: 1px solid #ccc; 
+}
+@media only screen and (max-width: 760px), (min-device-width: 768px) and (max-device-width: 1024px)  {
+
+		/* Force table to not be like tables anymore */
+		table.response, table.response thead, table.response tbody, table.response th, table.response td, table.response tr {
+			display: block;
+		}
+
+		/* Hide table headers (but not display: none;, for accessibility) */
+		table.response thead tr {
+			position: absolute;
+			top: -9999px;
+			left: -9999px;
+		}
+
+		table.response tr { border: 1px solid #ccc; }
+
+		table.response td {
+			/* Behave  like a "row" */
+			border: none;
+			border-bottom: 1px solid #eee;
+			position: relative;
+			padding-left: 50%;
+		}
+
+		table.response td:before {
+			/* Now like a table header */
+			position: absolute;
+			/* Top/left values mimic padding */
+			top: 6px;
+			left: 6px;
+			width: 45%;
+			padding-right: 10px;
+			white-space: nowrap;
+		}
+		table#customerListBody input, table#customerListBody select{
+			width: 100% !important;
+		}
+		/*
+		Label the data
+		*/
+		table.response td:before { content: attr(data_content); text-align:left }
+	}
